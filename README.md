@@ -1,4 +1,5 @@
 (https://holopin.me/anup2601)](https://holopin.io/@anup2601)
+[![An image of @anup2601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anup2601)](https://holopin.io/@anup2601)
 <h1 align="center">Hi 👋, I'm Anup Mishar</h1>
 <h3 align="center">A passionate MERN Stack developer & Freelancer from India</h3>
 
