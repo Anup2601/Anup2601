@@ -48,3 +48,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anup2601&show_icons=true&locale=en" alt="anup2601" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anup2601&" alt="anup2601" /></p>
+[![An image of @anup2601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anup2601)](https://holopin.io/@anup2601)
