@@ -1,5 +1,3 @@
-(https://holopin.me/anup2601)](https://holopin.io/@anup2601)
-[![An image of @anup2601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anup2601)](https://holopin.io/@anup2601)
 <h1 align="center">Hi 👋, I'm Anup Mishar</h1>
 <h3 align="center">A passionate MERN Stack developer & Freelancer from India</h3>
 
@@ -8,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anup2601" alt="anup2601" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anupmishra12607" target="blank"><img src="https://img.shields.io/twitter/follow/anupmishra12607?logo=twitter&style=for-the-badge" alt="anupmishra12607" /></a> </p>
+
+[![An image of @anup2601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anup2601)](https://holopin.io/@anup2601)
 
 - 🔭 I’m currently working on [BOOLOOM](https://zero-blush.vercel.app/)
 
@@ -50,4 +50,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anup2601&show_icons=true&locale=en" alt="anup2601" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anup2601&" alt="anup2601" /></p>
-[![An image of @anup2601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anup2601)](https://holopin.io/@anup2601)
