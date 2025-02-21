@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anup Mishar</h1>
+<h1 align="center">Hi 👋, I'm Anup Mishra</h1>
 <h3 align="center">A passionate MERN Stack developer & Freelancer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anup2601&label=Profile%20views&color=0e75b6&style=flat" alt="anup2601" /> </p>
